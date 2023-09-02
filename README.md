@@ -28,5 +28,6 @@
 ![image](https://github.com/JogGiri/JogGiri/assets/42950079/e33319fb-8576-4531-96c1-756ef8f5463a)
 ![image](https://github.com/JogGiri/JogGiri/assets/42950079/c14bf766-e26d-408f-b7e1-6801b060fd63)
 ![image](https://github.com/JogGiri/JogGiri/assets/42950079/8c96bdb3-f8ce-40fd-8349-e6a07341f3f0)
-![image](https://github.com/JogGiri/JogGiri/assets/42950079/4836dc3f-34bf-40f1-a7be-c909cbd35e61)
+![image](https://github.com/JogGiri/JogGiri/assets/42950079/0bb0f57d-b65b-4147-b82c-b15a89e46d49)
+
 
