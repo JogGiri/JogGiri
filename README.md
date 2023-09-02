@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jog Giri</h1>
-<h3 align="center">A passionate Data Engineer from India having 2+ years of experience</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🔭 I’m currently working as **Data Engineer**
+- 🔭 I’m currently working as **Data Engineer, having 2+ years of experience**
 
 - 🌱 I’m currently using **Databricks,Pyspark,SQL to create scalable data pipelines**
 
