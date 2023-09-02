@@ -24,7 +24,10 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaturncloud.io%2Fglossary%2Fpyspark%2F&psig=AOvVaw3sqQPETV2JVv10ldo4C5X5&ust=1693718331963000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCX99CWi4EDFQAAAAAdAAAAABAE" alt="LOGO_ALT_TEXT" width="40" height="40"/> </a>
-  <a href="LINK_TO_Databricks_PAGE" target="_blank" rel="noreferrer"> <img src="DATABRICKS_IMAGE_URL" alt="Databricks" width="40" height="40"/> </a>
-  <a href="https://spark.apache.org/sql/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Feditor.analyticsvidhya.com%2Fuploads%2F785951fa708f9f4f466a744e527e6e6548b23%2520(1).jpg&tbnid=pEZIGi4W0RkSUM&vet=12ahUKEwiuvcuMl4uBAxWgz6ACHctiD2EQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F07%2Fspark-sql-for-relational-databases%2F&docid=2V0lDzALc9y-hM&w=1050&h=520&q=spark%20sql&ved=2ahUKEwiuvcuMl4uBAxWgz6ACHctiD2EQMygAegQIARB0" alt="Databricks" width="40" height="40"/> </a>
+ 
 </p>
-![spark sql](https://www.google.com/imgres?imgurl=https%3A%2F%2Feditor.analyticsvidhya.com%2Fuploads%2F785951fa708f9f4f466a744e527e6e6548b23%2520(1).jpg&tbnid=pEZIGi4W0RkSUM&vet=12ahUKEwiuvcuMl4uBAxWgz6ACHctiD2EQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F07%2Fspark-sql-for-relational-databases%2F&docid=2V0lDzALc9y-hM&w=1050&h=520&q=spark%20sql&ved=2ahUKEwiuvcuMl4uBAxWgz6ACHctiD2EQMygAegQIARB0)
+
+![image](https://github.com/JogGiri/JogGiri/assets/42950079/e33319fb-8576-4531-96c1-756ef8f5463a)
+![image](https://github.com/JogGiri/JogGiri/assets/42950079/c14bf766-e26d-408f-b7e1-6801b060fd63)
+![image](https://github.com/JogGiri/JogGiri/assets/42950079/8c96bdb3-f8ce-40fd-8349-e6a07341f3f0)
+
