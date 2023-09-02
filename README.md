@@ -27,7 +27,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/JogGiri/JogGiri/assets/42950079/e33319fb-8576-4531-96c1-756ef8f5463a" alt="python" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/JogGiri/JogGiri/assets/42950079/c14bf766-e26d-408f-b7e1-6801b060fd63" alt="python" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/JogGiri/JogGiri/assets/42950079/8c96bdb3-f8ce-40fd-8349-e6a07341f3f0" alt="python" width="40" height="40"/> </a>      
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/JogGiri/JogGiri/assets/42950079/0bb0f57d-b65b-4147-b82c-b15a89e46d49" alt="python" width="40" height="40"/> </a> 
+  
    <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/JogGiri/JogGiri/assets/42950079/8766f730-c262-481f-9894-b0b7ffb3fece" alt="python" width="40" height="40"/> </a> 
 </p>
 
