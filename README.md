@@ -23,11 +23,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaturncloud.io%2Fglossary%2Fpyspark%2F&psig=AOvVaw3sqQPETV2JVv10ldo4C5X5&ust=1693718331963000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCX99CWi4EDFQAAAAAdAAAAABAE" alt="LOGO_ALT_TEXT" width="40" height="40"/> </a>
- 
 </p>
 
 ![image](https://github.com/JogGiri/JogGiri/assets/42950079/e33319fb-8576-4531-96c1-756ef8f5463a)
 ![image](https://github.com/JogGiri/JogGiri/assets/42950079/c14bf766-e26d-408f-b7e1-6801b060fd63)
 ![image](https://github.com/JogGiri/JogGiri/assets/42950079/8c96bdb3-f8ce-40fd-8349-e6a07341f3f0)
+![image](https://github.com/JogGiri/JogGiri/assets/42950079/4836dc3f-34bf-40f1-a7be-c909cbd35e61)
 
