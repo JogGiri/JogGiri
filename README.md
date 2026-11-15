@@ -1,16 +1,43 @@
-![logo](https://github.com/)
-<h1 align="center">Hi 👋, I'm Jog Giri</h1>
+# Hi, I'm Jog Giri 👋
 
-<h4 align="center">I am a passionate Data Engineer with over 4+ years of experience turning raw data into meaningful insights. I work with modern tools like Databricks, Airflow, AWS, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I’m also a Databricks Certified Professional Data Engineer and Spark Developer. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+**Senior Data Engineer** · 5 years building lakehouse platforms and batch/CDC pipelines on AWS and Databricks.
+I design Medallion-architecture pipelines, govern data with Unity Catalog, and now focus on the data foundations behind GenAI and ML systems.
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+🎓 **Databricks certified (6x)**, including Data Engineer Professional and Spark Developer
+📍 Jaipur, India · open to remote roles
+🔗 [LinkedIn](https://linkedin.com/in/joggiri)
 
-- 🔭 I’m a **Data Engineer**
+---
 
-- 👨‍💻 Ask me about **Cloud Data Engineering**
+## What I work on
 
-- 💬 LinkedIn **https://linkedin.com/in/joggiri**
+- **Lakehouse & Medallion pipelines**: PySpark, Delta Lake, Databricks Workflows, Unity Catalog governance
+- **Ingestion & CDC**: Oracle GoldenGate CDC into S3/Delta, incremental and idempotent loads
+- **Orchestration**: Airflow (MWAA), dependency design, retries/backfills, SLA monitoring
+- **AWS data stack**: S3, Glue, Athena, Lambda
+- **DataOps**: Databricks Asset Bundles, GitHub Actions CI/CD
+- **Currently building**: LLM agents and GenAI data tooling
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+## Tech stack
 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+## Featured projects
+
+| Project | What it demonstrates |
+|---|---|
+| [**DAB**](https://github.com/JogGiri/DAB) | Databricks Asset Bundles with a GitHub Actions CI/CD workflow: version-controlled, repeatable deployment of Databricks resources |
+| [**Ai_data_agent**](https://github.com/JogGiri/Ai_data_agent) | Natural-language-to-SQL agent over PostgreSQL using LangChain/LangGraph tool calling, with a Streamlit chat UI and switchable OpenAI/Gemini models |
+
+## Let's connect
+
+Happy to talk about lakehouse design, CDC patterns, Databricks CI/CD, and data engineering for AI.
